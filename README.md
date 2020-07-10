@@ -3,4 +3,4 @@ Hopefully we will introduce you to enough Python that you won't feel like you're
 
 To get started.  Click the link below
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cain1010/PythonBootCamp/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cain1010/PythonBootCamp/master?urlpath=lab)
